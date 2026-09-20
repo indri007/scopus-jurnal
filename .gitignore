@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+dist/
+build/
+.DS_Store
+papers/
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+.streamlit/secrets.toml
